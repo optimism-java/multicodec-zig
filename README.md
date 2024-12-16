@@ -1,5 +1,6 @@
 [![build](https://github.com/zen-eth/multiformats-zig/actions/workflows/check.yml/badge.svg?branch=main)](https://github.com/zen-eth/multiformats-zig/actions/workflows/check.yml)
 
+**Note:the code already transfer to https://github.com/zen-eth/multiformats-zig**
 # Multiformats zig 
 This is the zig implementation of the multiformats [spec](https://github.com/multiformats/multiformats).
 
